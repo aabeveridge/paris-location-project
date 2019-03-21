@@ -1,2 +1,2 @@
 # paris-location-project
-Kayla Forrest Paris Location Project
+Kayla Forrest Paris Location Research
